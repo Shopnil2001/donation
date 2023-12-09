@@ -1,6 +1,6 @@
+
+
 FEATURES:
-
-
 1 : Website is Secured by Firebase Authentication
 2 : Website is Responsive 
 3 : AOS package is used for various animation
